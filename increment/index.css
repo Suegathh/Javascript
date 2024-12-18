@@ -1,0 +1,23 @@
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 5em;
+    text-align: center;
+}
+div{
+    text-align: center;
+    
+}
+button{
+    padding: 10px;
+    background-color: hsl(181, 61%, 55%);
+    border-radius: 5px;
+    margin: 5px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+    transition: 1s;
+}
+button:hover{
+    background-color: hsl(181, 71%, 24%);
+}
